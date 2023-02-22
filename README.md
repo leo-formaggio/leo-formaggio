@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Leonardo Formaggio 👋
 
-<!--
-**leo-formaggio/leo-formaggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
 
-Here are some ideas to get you started:
+I'm studying web development at [Rocketseat](https://rocketseat.com.br/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current Stack
+
+- ⚡️ Main Language: `Javascript`
+- 🎉 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+- 🗃️ Backend: `Nodejs`
+- 🎨 Layout Design: `Figma`
+- 📦️ Version code control: `Git` & `Github`
+- 🔨 Tools: `VsCode`, `Markdown`
+
+#### Contacts
+
+- 📬 Email: leoformagio89@gmail.com
+- 👤 Linkedin: https://www.linkedin.com/in/leonardo-formaggio-017801159/
