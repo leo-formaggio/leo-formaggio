@@ -2,7 +2,8 @@
 
 #### About
 
-I'm studying web development at [Rocketseat](https://rocketseat.com.br/)
+I'm studying Web Development at [Coderhouse](https://coderhouse.com.br/) and
+             Software Engineer at [Estácio](https://estacio.br)
 
 #### Current Stack
 
